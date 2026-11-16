@@ -1,31 +1,28 @@
-# [Your Name]
+# Tyson Isham
 
-[One-line description of what you do or build]
+I build, research, and write about things that interest me.
 
 ## Currently
 
-- [What you're working on]
-- [What you're working on]
-- [What you're working on]
+- A decentralized payroll continuity plan for a post-labor, pre-abundance world
+- A new programming language that compiles and proofs at runtime
+- A magnetic solution for manipulating plasma away from craft during atmospheric reentry
 
 ## Selected work
 
 | Project | Description |
 |---------|-------------|
-| [Repo name](https://github.com/TysonIsham7/repo) | [What it is] |
-| [Repo name](https://github.com/TysonIsham7/repo) | [What it is] |
-| [Repo name](https://github.com/TysonIsham7/repo) | [What it is] |
+| TailRemote (https://github.com/TysonIsham7/TailRemote-Expanded-Mac-Functions-Tyson-Mod)) | Your Mac on your iPhone |
+| Vigil (https://github.com/TysonIsham7/vigil-public) | Early certificate and phishing check for Chrome, macOS Safari, and iOS Safari. |
+| Agentic-iphone-use (https://github.com/TysonIsham7/agentic-iphone-use) | Let your agents drive your iPhone |
 
 ## Writing & research
 
-- [Link or description of writing repo / series]
-- [Link or description]
+- Coming soon - Research on how watermarked AI outputs create inherent vulnerabilities
 
 ## Find me
 
-- X: [@username](https://x.com/username)
-- [Other link]
-- [Other link]
+- X: [@tysonisham](https://x.com/tysonisham)
 
 ---
 
