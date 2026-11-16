@@ -1,16 +1,32 @@
-## Hi there 👋
+# [Your Name]
 
-<!--
-**TysonIsham7/TysonIsham7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[One-line description of what you do or build]
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [What you're working on]
+- [What you're working on]
+- [What you're working on]
+
+## Selected work
+
+| Project | Description |
+|---------|-------------|
+| [Repo name](https://github.com/TysonIsham7/repo) | [What it is] |
+| [Repo name](https://github.com/TysonIsham7/repo) | [What it is] |
+| [Repo name](https://github.com/TysonIsham7/repo) | [What it is] |
+
+## Writing & research
+
+- [Link or description of writing repo / series]
+- [Link or description]
+
+## Find me
+
+- X: [@username](https://x.com/username)
+- [Other link]
+- [Other link]
+
+---
+
+*Plain Markdown so both people and agents can parse it easily.*
