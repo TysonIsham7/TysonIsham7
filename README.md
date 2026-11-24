@@ -12,7 +12,7 @@ I build, research, and write about things that interest me.
 
 | Project | Description |
 |---------|-------------|
-| [TailRemote](https://github.com/TysonIsham7/TailRemote-Expanded-Mac-Functions-Tyson-Mod) | Your Mac on your iPhone |
+| [TailRemote](https://github.com/TysonIsham7/TailRemote) | Your Mac on your iPhone |
 | [Vigil](https://github.com/TysonIsham7/vigil-public) | Early certificate and phishing check for Chrome, macOS Safari, and iOS Safari |
 | [Agentic-iphone-use](https://github.com/TysonIsham7/agentic-iphone-use) | Let your agents drive your iPhone |
 
